@@ -1,3 +1,7 @@
+# Doggo 
+
+A cool multi purpose fun bot with commands for Fun, Utility, Moderation, Images, Animals and so on !!
+
 # Commands
 
 ## Moderation
